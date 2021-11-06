@@ -2,7 +2,7 @@
 
 ## I'm a starter developer and student
 
-- 🌱 I’m currently learning C# 🤣
+- 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate with other creators/developers
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
