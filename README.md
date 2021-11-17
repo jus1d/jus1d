@@ -1,10 +1,10 @@
-### Hi there, I'm artem - aka jus1d 👋 
+### Hi there, I'm jus1d
 
 ## I'm a starter developer and student
 
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate with other creators/developers
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- I’m currently learning C#
+- I’m looking to collaborate with other creators/developers
+- Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
