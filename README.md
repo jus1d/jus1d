@@ -4,7 +4,7 @@
 
 - I’m currently learning C#
 - I’m looking to collaborate with other creators/developers
-- Fun fact: I love to draw and play guitar / drums
+- Fun fact: here no fact, maybe it is in the other place?
 
 ### Connect with me:
 
