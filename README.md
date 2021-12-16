@@ -1,4 +1,4 @@
-### Hi there, I'm jus1d 
+### Hi there, I'm jus1d
 
 ## I'm a starter developer and student
 
