@@ -15,6 +15,3 @@
 [twitter]: https://twitter.com/jus1dq
 [instagram]: https://www.instagram.com/jus1dd/?hl=ru
 [vk]: https://vk.com/jus1d
- 
- 
- 
