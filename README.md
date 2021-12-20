@@ -9,7 +9,7 @@
 - How to reach me: [jus1d#9959](https://discord.com/users/854777947465187339), btw u can dm me anytime
 
 ### Top languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jus1d&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jus1d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
  
