@@ -8,9 +8,6 @@
 - Fun fact: here no fact, maybe it is in the other place?
 - How to reach me: [jus1d#9959](https://discord.com/users/854777947465187339), btw u can dm me anytime
 
-### Top languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jus1d&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
  
 [<img align="left" alt="jus1d | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
