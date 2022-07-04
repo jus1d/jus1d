@@ -1,6 +1,6 @@
 ### Hi there, I'm jus1d
   
-## I'm a starter, self-taught developer and student
+## I'm a self-taught developer and student
 
 - I’m currently learning C#, Python, a bit cpp
 - I'm currently working on -
